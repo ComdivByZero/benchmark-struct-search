@@ -1,6 +1,6 @@
 #include "settings.h"
 
-extern bool search_ifelse(int a[N1][N2][N3], bool match(int), int *pk, int *pj, int *pi) {
+extern bool search_structline(int a[N1][N2][N3], bool match(int), int *pk, int *pj, int *pi) {
 	int i, j, k;
 	i = 0;
 	j = 0;
